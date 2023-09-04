@@ -1,0 +1,26 @@
+.two {
+     background-color: #fff;
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+  
+.imgfix {
+    align-content: right;
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+ }
+.img_hover {
+ overflow: hidden; 
+ 
+}
+.img_hover img { 
+width: 100%; 
+transition: 0.8s all ease-in-out; 
+} 
+.img_hover:hover img { 
+transform: scale(1.2); }
+ 
